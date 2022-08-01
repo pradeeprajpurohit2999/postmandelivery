@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*#v)va=69yc29+$j#yjt*7_cw-&sb-&idosvcirs!p+-(hfk63
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','postmandelivery.in','postman-delivery.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','postman-delivery.herokuapp.com/']
 
 
 # Application definition
