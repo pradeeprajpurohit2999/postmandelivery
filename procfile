@@ -1,1 +1,2 @@
-web: gunicorn wsqubetech.wsgi --log-file -
+
+web: gunicorn wsqubetech.wsgi
